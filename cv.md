@@ -5,7 +5,7 @@ in_menu: true
 ---
 <main>
                 <h2 class="Rubric">Hard Skills</h2>
-                    <h3>Getsion des tickets d'incidents</h3>
+                    <h3>Gestion des tickets d'incidents</h3>
                         <ul>
                             <li>Suivi des demandes et résolutions des tickets d'incidents</li>
                         </ul>
