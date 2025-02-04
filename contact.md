@@ -1,3 +1,8 @@
+---
+title: "Contact"
+order: 1
+in_menu: true
+---
 <main>
                 <h1>Voici les moyens de me contacter</h1>
                 <h2>Merci d'avoir consulté</h2>
