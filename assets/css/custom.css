@@ -6,15 +6,7 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00fffc",endColorstr="#ab00ff",GradientType=1); 
     color: white;
 }
-h1 {    
-    text-align: center;
-    font-weight:900;
-    font-size: 350%;
-    text-align: center;
-    font-style: italic;
-    text-decoration-line:underline
-    color: white;
-}
+
 
 .Rubric { 
     font-size: 350%;
