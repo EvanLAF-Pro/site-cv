@@ -1,3 +1,72 @@
-:root {
-    --couleur-primaire : #2a6442;
+html {
+    background: rgb(7,2,91);
+    background: -moz-linear-gradient(90deg, rgba(7,2,91,1) 0%, rgba(0,37,158,1) 0%, rgba(5,203,58,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(7,2,91,1) 0%, rgba(0,37,158,1) 0%, rgba(5,203,58,1) 100%);
+    background: linear-gradient(90deg, rgba(7,2,91,1) 0%, rgba(0,37,158,1) 0%, rgba(5,203,58,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#07025b",endColorstr="#05cb3a",GradientType=1);
+    color: white;
+    font-family: B612;
+}
+h1 {    
+    text-align: center;
+    font-weight:900;
+    font-size: 350%;
+    text-align: center;
+    font-style: italic;
+    text-decoration-line:underline
+}
+
+.Rubric { 
+    font-size: 350%;
+    text-align: center;
+    font-style: italic;
+    text-decoration-line:underline
+}
+main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+header {
+    background:rgb(0, 0, 0);
+}
+.Menu {
+    max-width: 90%;
+    width:100%;
+    margin: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    color: white;
+}
+header .Menu {
+    display: flex;
+    justify-content:flex-end;
+}
+header ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 2rem;
+}   
+a {
+    font-family: B612;
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+}
+img {
+    width:5%;
+    height:5%;vertical-align: middle;
+    margin-top: 1em;
+}
+.moi {
+    width: 35em;
+    height: 35em;
+    float: right; 
+
+}
+.int {
+    text-align:justify ;
+    margin-right: 50%;
+    margin-top: 20%;
+    
 }
