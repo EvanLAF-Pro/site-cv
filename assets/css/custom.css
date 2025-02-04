@@ -72,6 +72,6 @@ img {
     margin-top: 20%;
     
 }
-h1.container {
+main > div > h1 {
     visibility: hidden;
 }
