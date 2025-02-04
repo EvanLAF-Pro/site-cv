@@ -69,11 +69,11 @@ img {
 main > div > h1 {
     visibility: hidden;
 }
-.tableau{
+.tableau {
     display: flex;
     flex-direction: row;
 }
-.moi{
+.moi {
     width: 20em;
     height: 20em;
 }
