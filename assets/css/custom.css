@@ -81,6 +81,6 @@ footer {
    visibility: hidden;
 }
 #icon {
-   display: flex;
+   display: ruby;
    flex-direction: row;
 }
