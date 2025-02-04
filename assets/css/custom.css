@@ -75,3 +75,7 @@ img {
 main > div > h1 {
     visibility: hidden;
 }
+.tableau{
+    display: flex;
+    flex-direction: row;
+}
