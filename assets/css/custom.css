@@ -71,3 +71,6 @@ img {
     margin-top: 20%;
     
 }
+h1.container {
+    visibility:hidden;
+}
