@@ -9,7 +9,7 @@ in_menu: true
                         <ul>
                             <li>Suivi des demandes et résolutions des tickets d'incidents</li>
                         </ul>
-                    <h3>Assistance ou dépanner les utilisateurs</h3>
+                    <h3>Assistance ou dépannage d'utilisateurs</h3>
                         <ul>
                             <li>Traiter un incident</li>
                             <li>Assister un utilisateur</li>
@@ -35,11 +35,11 @@ in_menu: true
                         </ul>
                     <h3>VMs</h3>
                         <ul>
-                            <li>Installations, configuration et tests d'OS sur Virtual Box, VMWare et ProxMox</li>
+                            <li>Installations, configurations et tests d'OS sur Virtual Box, VMWare et ProxMox</li>
                         </ul>
                     <h3>Maintenance Matérielle</h3>
                         <ul>
-                            <li>Ajout, diagnostic et remplacment de composants</li>
+                            <li>Ajout, diagnostic et remplacement de composants</li>
                             <li>Configuration et installation de pilotes</li>
                             <li>Montage d'ordinateurs </li>
                         </ul>
@@ -51,7 +51,7 @@ in_menu: true
                             <li>Ponctuel</li>
                         </ul>
                 <h2 class="Rubric">Diplômes et Formations</h2>
-                    <h3>Technicien Assistance Informatique0</h3>
+                    <h3>Technicien Assistance Informatique</h3>
                         <ul>
                             <li>Depuis décembre 2024 oCCigène formation Villefontaine
                                 En cours</li>
@@ -64,7 +64,7 @@ in_menu: true
                     <h3>Apprenti Marbrier</h3>
                         <ul>
                             <li>De septembre 2020 à août 2022 Mabrerie Faguet Saint-Béron
-                                <br>Découpage, Façonnage d'une matière rocheusse
+                                <br>Découpage, Façonnage d'une matière rocheuse
                                 <br>Utilisation de machine numérique
                                 <br>Utilisation d'un pont roulant et d'une ventouse à vide</li>
                         </ul>
