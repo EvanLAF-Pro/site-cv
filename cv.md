@@ -1,6 +1,6 @@
 ---
 title: "CV"
-order: 4
+order: 1
 in_menu: true
 ---
 <main>
