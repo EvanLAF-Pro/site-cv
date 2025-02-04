@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 <main>
-                <h1>Besoin d’un stagiaire en Assistance informatiques ?</h1>
+                <h1>Besoin d’un stagiaire en Assistance informatique ?</h1>
                 <div class="tableau">
                  <p class="int">Passionné par la technologie, l'informatiques et leurs nouveautés, je souhaite faire un stage pour pratiquer et aiguiser mes <a href="https://evanlaf-pro.github.io/site-cv/experiences.html">compétences.</a> 
                 <br>Je suis rigoureux et serieux, m'adapder dans mon travail n'est pas un problème
