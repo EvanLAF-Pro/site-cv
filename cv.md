@@ -41,7 +41,7 @@ in_menu: true
                         <ul>
                             <li>Ajout, diagnostic et remplacment de composants</li>
                             <li>Configuration et installation de pilotes</li>
-                            <li>Montage d'ordinateurs</il>
+                            <li>Montage d'ordinateurs </il>
                         </ul>
                 <h2 class="Rubric">Soft Skills</h2>
                         <ul>
