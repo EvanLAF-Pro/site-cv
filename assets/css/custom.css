@@ -1,5 +1,10 @@
 body {
-    background: blue;
+        background: rgb(0,255,252);
+    background: -moz-linear-gradient(150deg, rgba(0,255,252,1) 0%, rgba(171,0,255,1) 100%);
+    background: -webkit-linear-gradient(150deg, rgba(0,255,252,1) 0%, rgba(171,0,255,1) 100%);
+    background: linear-gradient(150deg, rgba(0,255,252,1) 0%, rgba(171,0,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00fffc",endColorstr="#ab00ff",GradientType=1); 
+    color: white;
 }
 h1 {    
     text-align: center;
@@ -22,7 +27,6 @@ main {
     margin-left: 10%;
     margin-right: 10%;
     color: white;
-    background: darkblue;
 }
 header {
     background:rgb(0, 0, 0);
