@@ -1,11 +1,4 @@
-main {
-    background: rgb(7,2,91);
-    background: -moz-linear-gradient(90deg, rgba(7,2,91,1) 0%, rgba(0,37,158,1) 0%, rgba(5,203,58,1) 100%);
-    background: -webkit-linear-gradient(90deg, rgba(7,2,91,1) 0%, rgba(0,37,158,1) 0%, rgba(5,203,58,1) 100%);
-    background: linear-gradient(90deg, rgba(7,2,91,1) 0%, rgba(0,37,158,1) 0%, rgba(5,203,58,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#07025b",endColorstr="#05cb3a",GradientType=1);
-    color: white;
-    font-family: B612;
+
 }
 h1 {    
     text-align: center;
