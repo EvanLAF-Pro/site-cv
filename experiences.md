@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Experiences"
 order: 1
 in_menu: true
 ---
