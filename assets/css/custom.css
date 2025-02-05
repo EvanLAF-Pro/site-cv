@@ -66,6 +66,7 @@ img {
 }
 .int {
     margin-top: 20%; 
+    text-align: center;
 }
 main > div > h1 {
     visibility: hidden;
